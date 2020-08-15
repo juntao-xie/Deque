@@ -1,3 +1,3 @@
-### Deque
+### Deque Interface
 
 
